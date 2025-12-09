@@ -1,0 +1,3 @@
+bcrypt
+argon2-cffi
+colorama
